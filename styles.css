@@ -122,4 +122,7 @@ input{
   margin-top: 10%;
   margin-bottom:10%;
   }
+  .output-text{
+    font-size:2rem;
+  }
 }
