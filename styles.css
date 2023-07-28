@@ -125,4 +125,7 @@ input{
   .output-text{
     font-size:2rem;
   }
+  .input{
+  width:95%;
+  }
 }
